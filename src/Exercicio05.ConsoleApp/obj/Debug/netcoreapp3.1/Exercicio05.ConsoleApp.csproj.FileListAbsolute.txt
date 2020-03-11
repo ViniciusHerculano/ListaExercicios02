@@ -1,0 +1,11 @@
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.exe
+c:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.deps.json
+c:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.runtimeconfig.json
+c:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.dll
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.pdb
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.dll
+C:\Projetos\Exercicios02Elvis\src\Exercicio05.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio05.ConsoleApp.pdb
