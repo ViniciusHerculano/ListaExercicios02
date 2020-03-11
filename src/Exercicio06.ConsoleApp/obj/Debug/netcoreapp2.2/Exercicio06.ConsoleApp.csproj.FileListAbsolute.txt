@@ -1,0 +1,11 @@
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\bin\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.deps.json
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\bin\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.runtimeconfig.json
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\bin\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.runtimeconfig.dev.json
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\bin\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.dll
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\bin\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.pdb
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\obj\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.csprojAssemblyReference.cache
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\obj\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\obj\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.AssemblyInfoInputs.cache
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\obj\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.AssemblyInfo.cs
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\obj\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.dll
+c:\Projetos\Vinicius\Exercicios02Elvis\src\Exercicio06.ConsoleApp\obj\Debug\netcoreapp2.2\Exercicio06.ConsoleApp.pdb

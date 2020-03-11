@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Exercicios02Elvis\\Exercicio03.ConsoleApp\\Exercicio03.ConsoleApp.csproj": {}
+    "c:\\Projetos\\Exercicios02Elvis\\src\\Exercicio06.ConsoleApp\\Exercicio06.ConsoleAppp.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Exercicios02Elvis\\Exercicio03.ConsoleApp\\Exercicio03.ConsoleApp.csproj": {
+    "c:\\Projetos\\Exercicios02Elvis\\src\\Exercicio06.ConsoleApp\\Exercicio06.ConsoleAppp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Exercicios02Elvis\\Exercicio03.ConsoleApp\\Exercicio03.ConsoleApp.csproj",
-        "projectName": "Exercicio03.ConsoleApp",
-        "projectPath": "C:\\Projetos\\Exercicios02Elvis\\Exercicio03.ConsoleApp\\Exercicio03.ConsoleApp.csproj",
+        "projectUniqueName": "c:\\Projetos\\Exercicios02Elvis\\src\\Exercicio06.ConsoleApp\\Exercicio06.ConsoleAppp.csproj",
+        "projectName": "Exercicio06.ConsoleAppp",
+        "projectPath": "c:\\Projetos\\Exercicios02Elvis\\src\\Exercicio06.ConsoleApp\\Exercicio06.ConsoleAppp.csproj",
         "packagesPath": "C:\\Users\\Vinicius Herculano\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Exercicios02Elvis\\Exercicio03.ConsoleApp\\obj\\",
+        "outputPath": "c:\\Projetos\\Exercicios02Elvis\\src\\Exercicio06.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -39,7 +39,15 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,11 +58,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }

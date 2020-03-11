@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{296B74F2-11D2-4F2F-AF0A-2F5F3BBAB04E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06.ConsoleApp", "src\Exercicio06.ConsoleApp\Exercicio06.ConsoleApp.csproj", "{B19C38C4-AA7A-4F81-ADE5-4032DCADDC37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06.ConsoleAppp", "src\Exercicio06.ConsoleApp\Exercicio06.ConsoleAppp.csproj", "{B19C38C4-AA7A-4F81-ADE5-4032DCADDC37}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio07.ConsoleApp", "src\Exercicio07.ConsoleApp\Exercicio07.ConsoleApp.csproj", "{2C8250F7-7FC3-4413-A991-91545F01C8D8}"
 EndProject
